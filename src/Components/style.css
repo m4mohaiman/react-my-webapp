@@ -1,0 +1,228 @@
+/*!
+ * Mohaiman v1.0.0 (http://m4mohaiman.github.io)
+ * Copyright 2016-2017 Mohaiman
+ */
+
+ .alignleft {
+    float: left;
+    margin-right: 15px
+}
+
+.alignright {
+    float: right;
+    margin-left: 15px
+}
+
+.aligncenter {
+    display: block;
+    margin: 0 auto 15px
+}
+
+a:focus {
+    outline: solid 0
+}
+
+img {
+    max-width: 100%;
+    height: auto
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    margin: 0 0 15px;
+    font-weight: 700
+}
+
+body {
+    font-family: Ubuntu, sans-serif
+}
+
+.base-color {
+    color: #8e44ad!important
+}
+
+body::-webkit-scrollbar {
+    width: 5px
+}
+
+body::-webkit-scrollbar-track {
+    -webkit-box-shadow: inset 0 0 5px rgba(0, 0, 0, .3)
+}
+
+body::-webkit-scrollbar-thumb {
+    background-color: #9b59b6;
+    outline: #FFF solid 1px
+}
+
+a:hover {
+    text-decoration: none
+}
+
+.header {
+    border-top: 2px solid #8e44ad
+}
+
+.navbar-default {
+    border: 0;
+    padding-top: 15px;
+    background:#fff !important;
+}
+
+ul.nav.navbar-nav.navbar-right {
+    font-size: 16px
+}
+
+.context p,
+.context-black {
+    font-size: 18px
+}
+
+.hero-area {
+    background: url('media/bg.png');
+    width: 100%;
+    height: 280px;
+    background-size: cover
+}
+
+.context {
+    padding-top: 100px;
+    color: #fff
+}
+
+.context-black {
+    color: #000;
+    text-align: center;
+    line-height: 2em
+}
+
+.short-bio,
+.work-together {
+    padding-top: 100px;
+    padding-bottom: 100px
+}
+
+.work-together {
+    background: #FDCD3B
+}
+
+.cos-button {
+    border: 2px solid #000;
+    border-radius: 50px;
+    padding: 15px 25px;
+    color: #000;
+    margin-top: 10px
+}
+
+.footer {
+    background: #2A3A3F;
+    padding-top: 100px;
+    padding-bottom: 100px
+}
+
+.footer-context p {
+    color: #ada9a9
+}
+
+.footer-context {
+    padding-top: 15px;
+    padding-bottom: 5px
+}
+
+.footer-logo img {
+    width: 50px
+}
+
+.footer-social-links ul {
+    margin: 0;
+    padding: 0
+}
+
+.footer-social-links ul li {
+    list-style: none;
+    display: inline-block;
+    margin: 15px
+}
+
+.footer-social-links ul li a {
+    color: #fff;
+    background: #52656b;
+    padding: 10px
+}
+
+i.fa {
+    width: 20px
+}
+
+.facebook {
+    background: #3b5998!important
+}
+
+.github {
+    background: #000!important
+}
+
+.linkedin {
+    background: #0077B5!important
+}
+
+.google-plus {
+    background: #d34836!important
+}
+
+.twitter {
+    background: #0084b4!important
+}
+
+.youtube {
+    background: #b00!important
+}
+
+.good-at {
+    padding-top: 100px;
+    padding-bottom: 100px;
+    background-color: #fff;
+    background-image: url(https://www.transparenttextures.com/patterns/axiom-pattern.png)
+}
+
+.good-at-context h2 {
+    margin: 0;
+    padding-top: 5px;
+    padding-bottom: 15px
+}
+
+.good-at-context p {
+    font-size: 20px;
+    padding-bottom: 50px
+}
+
+.goot-at-box img {
+    width: 70px;
+    margin-bottom: 20px
+}
+
+.works-of-mine {
+    padding-top: 100px;
+    padding-bottom: 100px
+}
+
+.my-work-box img {
+    width: 295px;
+    border-radius: 10px;
+    height: 175px;
+    margin-bottom: 20px
+}
+
+.my-work-box p {
+    font-size: 1.5rem;
+    line-height: 25px;
+    color: #93a4aa;
+    padding: 5px
+}
+
+.my-work-box {
+    padding-bottom: 40px
+}
