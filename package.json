@@ -1,7 +1,7 @@
 {
   "name": "my-webapp",
   "version": "0.1.0",
-  "author" : "Mohaiman"
+  "author" : "Mohaiman",
   "private": true,
   "dependencies": {
     "react": "^15.6.1",
